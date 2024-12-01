@@ -1,0 +1,177 @@
+[
+    {
+        "rank": 1,
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "rating": 9.3,
+        "url": "https://www.imdb.com/title/tt0111161/"
+    },
+    {
+        "rank": 2,
+        "title": "The Godfather",
+        "year": 1972,
+        "rating": 9.2,
+        "url": "https://www.imdb.com/title/tt0068646/"
+    },
+    {
+        "rank": 3,
+        "title": "The Dark Knight",
+        "year": 2008,
+        "rating": 9.0,
+        "url": "https://www.imdb.com/title/tt0468569/"
+    },
+    {
+        "rank": 4,
+        "title": "The Godfather Part II",
+        "year": 1974,
+        "rating": 9.0,
+        "url": "https://www.imdb.com/title/tt0071562/"
+    },
+    {
+        "rank": 5,
+        "title": "12 Angry Men",
+        "year": 1957,
+        "rating": 9.0,
+        "url": "https://www.imdb.com/title/tt0050083/"
+    },
+    {
+        "rank": 6,
+        "title": "Schindler's List",
+        "year": 1993,
+        "rating": 9.0,
+        "url": "https://www.imdb.com/title/tt0108052/"
+    },
+    {
+        "rank": 7,
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "rating": 9.0,
+        "url": "https://www.imdb.com/title/tt0167260/"
+    },
+    {
+        "rank": 8,
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "rating": 8.9,
+        "url": "https://www.imdb.com/title/tt0110912/"
+    },
+    {
+        "rank": 9,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 2001,
+        "rating": 8.8,
+        "url": "https://www.imdb.com/title/tt0120737/"
+    },
+    {
+        "rank": 10,
+        "title": "The Good, the Bad and the Ugly",
+        "year": 1966,
+        "rating": 8.8,
+        "url": "https://www.imdb.com/title/tt0060196/"
+    },
+    {
+        "rank": 11,
+        "title": "Forrest Gump",
+        "year": 1994,
+        "rating": 8.8,
+        "url": "https://www.imdb.com/title/tt0109830/"
+    },
+    {
+        "rank": 12,
+        "title": "Fight Club",
+        "year": 1999,
+        "rating": 8.8,
+        "url": "https://www.imdb.com/title/tt0137523/"
+    },
+    {
+        "rank": 13,
+        "title": "Inception",
+        "year": 2010,
+        "rating": 8.7,
+        "url": "https://www.imdb.com/title/tt1375666/"
+    },
+    {
+        "rank": 14,
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "year": 1980,
+        "rating": 8.7,
+        "url": "https://www.imdb.com/title/tt0080684/"
+    },
+    {
+        "rank": 15,
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": 2002,
+        "rating": 8.7,
+        "url": "https://www.imdb.com/title/tt0167261/"
+    },
+    {
+        "rank": 16,
+        "title": "The Matrix",
+        "year": 1999,
+        "rating": 8.7,
+        "url": "https://www.imdb.com/title/tt0133093/"
+    },
+    {
+        "rank": 17,
+        "title": "Goodfellas",
+        "year": 1990,
+        "rating": 8.7,
+        "url": "https://www.imdb.com/title/tt0099685/"
+    },
+    {
+        "rank": 18,
+        "title": "One Flew Over the Cuckoo's Nest",
+        "year": 1975,
+        "rating": 8.6,
+        "url": "https://www.imdb.com/title/tt0073486/"
+    },
+    {
+        "rank": 19,
+        "title": "Se7en",
+        "year": 1995,
+        "rating": 8.6,
+        "url": "https://www.imdb.com/title/tt0114369/"
+    },
+    {
+        "rank": 20,
+        "title": "Seven Samurai",
+        "year": 1954,
+        "rating": 8.6,
+        "url": "https://www.imdb.com/title/tt0047478/"
+    },
+    {
+        "rank": 21,
+        "title": "It's a Wonderful Life",
+        "year": 1946,
+        "rating": 8.6,
+        "url": "https://www.imdb.com/title/tt0038650/"
+    },
+    {
+        "rank": 22,
+        "title": "The Silence of the Lambs",
+        "year": 1991,
+        "rating": 8.6,
+        "url": "https://www.imdb.com/title/tt0102926/"
+    },
+    {
+        "rank": 23,
+        "title": "City of God",
+        "year": 2002,
+        "rating": 8.6,
+        "url": "https://www.imdb.com/title/tt0317248/"
+    },
+    {
+        "rank": 24,
+        "title": "Saving Private Ryan",
+        "year": 1998,
+        "rating": 8.6,
+        "url": "https://www.imdb.com/title/tt0120815/"
+    },
+    {
+        "rank": 25,
+        "title": "Life Is Beautiful",
+        "year": 1997,
+        "rating": 8.6,
+        "url": "https://www.imdb.com/title/tt0118799/"
+    }
+]
